@@ -16,7 +16,7 @@ DataBench-QA-Subtask-I/
 │   └── README.md              # Description of datasets and their formats
 │
 ├── notebooks/                 # Jupyter notebooks for exploration and analysis
-│   ├── data_exploration.ipynb  # Data exploration and visualization
+│   ├── data_exploration  # Data exploration and visualization
 │   ├── model_training.ipynb    # Model training process
 │   └── results_analysis.ipynb   # Analyzing results
 │
