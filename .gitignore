@@ -1,3 +1,6 @@
+# Help
+help/
+
 # Python-related files
 __pycache__/
 *.py[cod]
